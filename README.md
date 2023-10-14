@@ -6,6 +6,8 @@ Run arbitrary javascript and show output on a page.
 
 [![Screencast of the plugin in use](https://github.com/meain/logseq-plugin-runjs/assets/14259816/92d257e8-d99e-4742-ac73-d7d262473be5)](https://github.com/meain/logseq-plugin-runjs/assets/14259816/92d257e8-d99e-4742-ac73-d7d262473be5)
 
+*If you are having trouble viewing the video on GitHub, you can watch it on [YouTube](https://youtu.be/3nKkpMuS4gw).*
+
 > [!WARNING]  
 > Under the hood, it just does an `eval` of the javascript. So be careful with what you run.
 
