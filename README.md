@@ -57,6 +57,7 @@ fetch("https://wttr.in/?format=%t")
 - [ ] Support of outputting more than just text
 - [ ] Persisting output of a run across page loads
 - [ ] Should we drop `Processing...`? (maybe users don't want to use `setOutput`)
+- [ ] Option for output that can be continuously updated
 
 ---
 
